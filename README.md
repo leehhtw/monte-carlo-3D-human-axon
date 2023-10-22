@@ -5,6 +5,8 @@ The code implements 3d Monte Carlo simulations of diffusion in human axons [Lee 
 * **Demo 1:** Diffusion simulations in real axonal shape
 * **Demo 2:** Diffusion simulations in synthetic fibers with scaled undulations and caliber variations.
 
+![Axonal shapes from a human brain EM sample](./EM_sample.pdf)
+
 ## References
 * **Monte Carlo simulation**
   - [Lee et al., 2023](https://doi.org/10.1101/2023.04.19.537494)
