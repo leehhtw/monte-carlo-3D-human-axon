@@ -1,6 +1,6 @@
 # Monte Carlo simulations of diffusion in human axons
 
-The code re-implements 3d Monte Carlo simulations originally developed in [Lee et al., 2021](https://doi.org/10.1016/j.jneumeth.2020.109018) and [Lee et al., 2023](https://doi.org/10.1101/2023.04.19.537494).
+The code implements 3d Monte Carlo simulations of diffusion in human axons [Lee et al., 2023](https://doi.org/10.1101/2023.04.19.537494).
 
 * **Demo 1:** Diffusion simulations in real axonal shape
 * **Demo 2:** Diffusion simulations in synthetic fibers with scaled undulations and caliber variations.
