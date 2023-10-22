@@ -14,7 +14,7 @@ The code implements 3d Monte Carlo simulations of diffusion in human axons [Lee 
   - [Lee et al., 2020](https://doi.org/10.1016/j.neuroimage.2020.117228)
 
 ## Authors
-* [Hong-Hsi Lee](https://www.nmr.mgh.harvard.edu/user/5062244)
+* [Hong-Hsi Lee](https://researchers.mgh.harvard.edu/profile/25930401/Hong-Hsi-Lee)
 * [Qiyuan Tian](https://www.martinos.org/investigator/qiyuan-tian/)
 * [Ricardo Coronado-Leija](https://www.diffusion-mri.com/who-we-are/)
 * [Dmitry S Novikov](https://www.diffusion-mri.com/who-we-are/dmitry-novikov/)
