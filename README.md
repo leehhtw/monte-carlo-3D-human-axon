@@ -15,10 +15,11 @@ The code implements 3d Monte Carlo simulations of diffusion in human axons [Lee 
 
 ## Authors
 * [Hong-Hsi Lee](https://www.nmr.mgh.harvard.edu/user/5062244)
+* [Qiyuan Tian](https://www.martinos.org/investigator/qiyuan-tian/)
 * [Ricardo Coronado-Leija](https://www.diffusion-mri.com/who-we-are/)
 * [Dmitry S Novikov](https://www.diffusion-mri.com/who-we-are/dmitry-novikov/)
 * [Els Fieremans](https://www.diffusion-mri.com/who-we-are/els-fieremans/)
-* [Susie Y Huang](https://www.nmr.mgh.harvard.edu/user/7054)
+* [Susie Y Huang](https://www.martinos.org/investigator/susie-huang/)
 
 ## License
 This project is licensed under the [LICENSE](https://github.com/leehhtw/monte-carlo-3D-human-axon/blob/main/LICENSE).
