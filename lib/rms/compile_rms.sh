@@ -1,0 +1,1 @@
+nvcc /autofs/space/symphony_002/users/HongHsi/project/EM_WM/github/lib/rms/main_rms.cu -o /autofs/space/symphony_002/users/HongHsi/project/EM_WM/github/lib/rms/myrms
